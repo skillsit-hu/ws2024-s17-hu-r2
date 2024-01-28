@@ -10,5 +10,6 @@ A feladat megoldásához szükséges kiegészítőket az [assets mappa](https://
 
 Ezen belül a ``db`` mappában van a MySQl adatbázis dump-ja.
 
-[A WorldSkills Lyon 2024 webfejlesztő nemzeti válogató 1. forduló feladatának repoja](https://github.com/skillsit-hu/ws2024-s17-hu-r1)
+- [A WorldSkills Lyon 2024 webfejlesztő nemzeti válogató 1. forduló](https://github.com/skillsit-hu/ws2024-s17-hu-r1)
+- [A WorldSkills Lyon 2024 webfejlesztő nemzeti válogató 3. forduló](https://github.com/skillsit-hu/ws2024-s17-hu-r3)
 
