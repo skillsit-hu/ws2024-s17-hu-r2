@@ -1,1 +1,1 @@
-# ws2024-s17-hu-r2
+# WorldSkills Lyon 2024 webfejlesztő nemzeti válogató 2. forduló (középdöntő)
