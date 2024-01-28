@@ -1,4 +1,4 @@
-# WorldSkills Lyon 2024 Web Developer National Selection Round 2 (Semifinal)
+# WorldSkills Lyon 2024 Web Technology Hungarian National Competition - Round 2 (Semifinal)
 
 [English version](https://github.com/skillsithu/ws2024-s17-hu-r2/blob/main/README_EN.md)
 
