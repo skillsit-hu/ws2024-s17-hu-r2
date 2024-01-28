@@ -10,4 +10,5 @@ The necessary additional materials for the task are contained in the [assets fol
 
 Inside, the `db` folder contains the MySQL database dump.
 
-[WorldSkills Lyon 2024 Web Technology National Selection Round 1](https://github.com/skillsit-hu/ws2024-s17-hu-r1)
+- [WorldSkills Lyon 2024 Web Technology Hungarian National Competition - Round 1](https://github.com/skillsit-hu/ws2024-s17-hu-r1)
+- [WorldSkills Lyon 2024 Web Technology Hungarian National Competition - Round 3](https://github.com/skillsit-hu/ws2024-s17-hu-r3)
