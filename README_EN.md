@@ -1,6 +1,6 @@
 # WorldSkills Lyon 2024 Web Technology Hungarian National Competition - Round 2 (Semifinal)
 
-[English version](https://github.com/skillsit-hu/ws2024-s17-hu-r2/blob/main/README_EN.md)
+[Hungarian version](https://github.com/skillsit-hu/ws2024-s17-hu-r2/blob/main/README.md)
 
 In this round, the top 6 competitors from the first round competed in a one-day event to prove they deserve a place in the final. The task involved creating a simple backend, followed by an admin interface, and finally a frontend task.
 
